@@ -1,0 +1,30 @@
+.main{
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.left-div{
+    width: 40%;
+}
+.right-div{
+    width: 60%;
+}
+.ul{
+    display: flex;
+    padding-left: 300px
+}
+.li{
+    margin-left: 40px;
+    list-style: none;
+   
+    
+    
+}
+ Link{
+    color: white;
+    text-decoration: none;
+}
